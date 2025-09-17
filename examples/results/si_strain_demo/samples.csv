@@ -1,0 +1,6 @@
+sample,material,family,strain,status,geometry,error
+Si_-0.03,Si,zincblende,-0.03,ok,samples/Si_-0.03/geometry.extxyz,
+Si_-0.015,Si,zincblende,-0.015,ok,samples/Si_-0.015/geometry.extxyz,
+Si_+0,Si,zincblende,0.0,ok,samples/Si_+0/geometry.extxyz,
+Si_+0.015,Si,zincblende,0.015,ok,samples/Si_+0.015/geometry.extxyz,
+Si_+0.03,Si,zincblende,0.03,ok,samples/Si_+0.03/geometry.extxyz,

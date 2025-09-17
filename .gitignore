@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+.venv/
+.dftb-24.1/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+*.egg-info/
+build/
+dist/
+
+examples/generated/
+data/*
+!data/soc_parameters.csv

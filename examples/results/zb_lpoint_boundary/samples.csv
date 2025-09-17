@@ -1,0 +1,3 @@
+sample,material,family,strain,status,geometry,error
+GaAs,GaAs,zincblende,0.0,ok,samples/GaAs/geometry.extxyz,
+GaP,GaP,zincblende,0.0,ok,samples/GaP/geometry.extxyz,
